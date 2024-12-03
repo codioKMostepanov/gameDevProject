@@ -8,3 +8,4 @@ if __name__ == "__main__":
 
 print("We will bring you something exciting, soon!")
 print("Enjoy your adventure!")
+print("New feature in master branch")
